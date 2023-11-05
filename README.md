@@ -1,5 +1,5 @@
 <div style="display:flex;align-items:center;gap:10px">
-    <!-- <img height="35" src=""> -->
+    <img height="35" src="https://raw.githubusercontent.com/arashsheyda/nuxt-paypal/35f031801ff16bb937c02f1534eee0e06f1afabc/playground/public/logo.svg">
     <h1>Nuxt Paypal</h1>
 </div>
 
