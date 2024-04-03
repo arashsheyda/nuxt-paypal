@@ -22,14 +22,7 @@ A Nuxt module for simplifying the use of Paypal in your project.
 1. Add `nuxt-paypal` dependency to your project
 
 ```bash
-# Using pnpm
-pnpm add -D nuxt-paypal
-
-# Using yarn
-yarn add --dev nuxt-paypal
-
-# Using npm
-npm install --save-dev nuxt-paypal
+npx nuxi@latest module add paypal
 ```
 
 2. Add `nuxt-paypal` to the `modules` section of `nuxt.config.ts`
